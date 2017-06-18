@@ -1,2 +1,2 @@
 # 2017-Andriod-VPN-Celebration
-这个项目由个人收集并更新
+来自各个网站的免费VPN服务，欢迎使用。
