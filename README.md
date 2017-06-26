@@ -1,3 +1,2 @@
 # 2017-Andriod-VPN-Celebration
 来自各个网站的免费VPN服务，欢迎使用。
-# 我告诉你GFW融入流量识别和机器学习SS越用也卡的...
