@@ -1,2 +1,2 @@
-# 2017-Andriod-VPN-Celebration
-来自各个网站的免费VPN服务，欢迎使用。
+# 2017-Andriod-VP-Celebration
+网络世界中已收录的翻墙服务，如有问题请提Issues，看到后会回。
